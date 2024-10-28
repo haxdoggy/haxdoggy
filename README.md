@@ -5,3 +5,5 @@
 </a>
 
 Wardriving, Mayhem H4M portapack, Flipper Zero, Hak5 Pineapple and other script kiddie stuff.
+
+Working as a Information Security Specialist.
