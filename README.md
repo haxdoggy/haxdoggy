@@ -36,7 +36,7 @@
         <h1 style="color: #4CAF50;">Hello world! 👋</h1>
         
         <a href="https://wigle.net">
-            <img border="0" src="https://wigle.net/bi/tJbhzPkwreb_QmW6qAUKMA.png" alt="Wigle.net logo">
+            <img border="0" src="assets/images/wigle-logo.png" alt="Wigle.net logo">
         </a>
 
         <p>Wardriving, Mayhem H4M portapack, Flipper Zero, Hak5 Pineapple and other script kiddie stuff.</p>
