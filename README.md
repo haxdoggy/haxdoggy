@@ -7,8 +7,7 @@ Hi! My name is **Douglas**, and I work as an **Information Security Specialist**
 - 🌱 Learning **Cybersecurity** to stay ahead of evolving threats.
 - ⚡ Fun Fact: I’ve worked with **hydroponic vertical salad and mushroom cultivation**! 🍄🥗
 
-## My profile on TryHackMe (top 10%)
-[@haxdoggy](https://tryhackme.com/p/haxdoggy)
+## 🏆 My profile on TryHackMe (top 10%)
 <img src="https://tryhackme-badges.s3.amazonaws.com/haxdoggy.png" alt="Your Image Badge" />
 
 ## 🌟 My Projects
@@ -22,3 +21,4 @@ Hi! My name is **Douglas**, and I work as an **Information Security Specialist**
 - 📧 Email: [haxdoggy@proton.me](mailto:haxdoggy@proton.me)
 - 🔗 LinkedIn: [Douglas](https://www.linkedin.com/in/haxdoggy/)
 - 🌳 Linktree https://linktr.ee/haxdoggy
+- 🛡️ TryHackMe: [haxdoggy](https://tryhackme.com/p/haxdoggy)
