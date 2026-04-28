@@ -1,6 +1,6 @@
 # 👋 Welcome to My GitHub Profile!
 
-Hi! My name is **Douglas**, and I work as an **COMSEC Security Officer** & **Cyber Security Specialist** in the Swedish public sector. I have a strong passion for cybersecurity and emerging technologies. My interests span across Software Defined Radio (SDR), Arduino, Flipper Zero and Raspberry Pi, wardriving, HackRF/Mayhem/Portapack, Wifi Pineapple, drones, soldering, and 3D printing. 🚀
+Hi! My name is **Douglas**, and I work as an **COMSEC Security Officer** & **Cyber Security Specialist** in the Swedish public sector. I have a strong passion for cybersecurity and emerging technologies. My interests span across Software Defined Radio (SDR), MeshCore, Arduino, Flipper Zero and Raspberry Pi, wardriving, HackRF/Mayhem/Portapack, Wifi Pineapple, drones, soldering, and 3D printing. 🚀
 
 ## 💻 What I Do
 - 🔭 Working as an **Information Security Specialist**, securing systems and data.
