@@ -10,7 +10,7 @@ Hi! My name is **Douglas**, and I work as a **COMSEC Security Officer** & **Cybe
 
 ## 🏆 My profile on TryHackMe (top 6% globally)
 
-<img src="https://tryhackme-badges.s3.amazonaws.com/haxdoggy.png" alt="TryHackMe badge for haxdoggy" />
+<script src="https://tryhackme.com/badge/t/5589f1aca14a8297085b6c65584d1b4f7bd89a036bab56842328b84f23d0089a3d78de3149af385ad9da8c1cdc51a14c"></script>
 
 ## 🌟 My Projects
 
