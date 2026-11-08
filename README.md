@@ -29,8 +29,7 @@ Hi! My name is **Douglas**, and I work as a **COMSEC Security Officer** & **Cybe
 
 ## 📫 Connect with Me
 
-- 🐦 X: [@haxdoggy](https://x.com/haxdoggy)
+- 🐦 Instagram: [@douglas.klang](https://instagram.com/douglas.klang)
 - 📧 Email: [haxdoggy@proton.me](mailto:haxdoggy@proton.me)
 - 🔗 LinkedIn: [Douglas Klang](https://www.linkedin.com/in/haxdoggy/)
-- 🌳 Website: [haxdoggy.io](https://haxdoggy.io)
 - 🛡️ TryHackMe: [haxdoggy](https://tryhackme.com/p/haxdoggy)
